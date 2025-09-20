@@ -1,0 +1,27 @@
+
+[
+  {
+    "title": "Assets Alert App",
+    "status": "In Progress",
+    "dateStarted": "2025-01-10",
+    "lastUpdated": "2025-08-21",
+    "description": "App for tracking Bitcoin, crypto, and stock price alerts with audible notifications.",
+    "tags": ["APK", "Web3", "NFT", "Alert"]
+  },
+  {
+    "title": "VTS Complete",
+    "status": "Paused",
+    "dateStarted": "2025-02-14",
+    "lastUpdated": "2025-07-30",
+    "description": "AI-powered animation & voiceover tool with NFT minting support.",
+    "tags": ["Animation", "Voice", "NFT", "Creative"]
+  },
+  {
+    "title": "Project Echo",
+    "status": "Completed",
+    "dateStarted": "2025-04-01",
+    "lastUpdated": "2025-04-30",
+    "description": "Song creation project – Echoes of You – includes lyrics, audio, and metadata.",
+    "tags": ["Music", "Echo", "Lyrics", "MP3"]
+  }
+]
